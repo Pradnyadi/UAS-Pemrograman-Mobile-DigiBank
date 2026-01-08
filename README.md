@@ -14,7 +14,7 @@ Aplikasi ini dibuat untuk memenuhi tugas UAS Mata Kuliah Pemrograman Mobile. Apl
 
 ## 📸 Screenshot Implementasi
 
-| Halaman Scan | Halaman Hasil (Sukses) |
+| Tampilan Screen | Tampilan Screen |
 | :---: | :---: |
 | ![Scan](docs/register_screen.jpg) | ![Hasil](docs/home_screen.jpg) |
 | ![Scan](docs/scan_screen.jpg) | ![Hasil](docs/result_screen.jpg) |
