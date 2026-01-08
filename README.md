@@ -1,16 +1,33 @@
-# qrisuntuk_uas
+# DigiBank UAS - Sistem Pembayaran QRIS
 
-A new Flutter project.
+Aplikasi ini dibuat untuk memenuhi tugas UAS Mata Kuliah Pemrograman Mobile. Aplikasi ini memungkinkan pengguna memindai kode QRIS, mendeteksi lokasi transaksi secara otomatis, dan menampilkan detail pembayaran.
 
-## Getting Started
+## 👥 Anggota Kelompok
+1. Dewa Made Pradnyadi Putra (2301010074)
+2. Kadek Ari Surya Wijaya (2301010080)
+3. Kadek Deana Putra (2301010087)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 🔗 Link Desain & Dokumen
+- **Desain Figma:** [Klik disini untuk melihat Figma](MASUKKAN_LINK_FIGMA_DISINI)
+- **Rancangan Arsitektur:** https://docs.google.com/document/d/1WLFvdRT42Dgiivzoi_f55ScryYTvWs_hxFFHmtXxxfY/edit?usp=sharing
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Fitur Utama
+- **QRIS Scanner:** Memindai kode QRIS standar dan membaca data merchant & nominal.
+- **Auto Location:** Mendeteksi lokasi pengguna (Jalan, Kecamatan, Kab) saat transaksi menggunakan Geolocation & Geocoding.
+- **Validasi Data:** Menangani format QR yang valid dan tidak valid.
+- **Bukti Transaksi:** Menampilkan struk digital setelah scan berhasil.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshot Implementasi
+
+| Halaman Scan | Halaman Hasil (Sukses) |
+| :---: | :---: |
+| ![Scan](docs/scan_screen.jpg) | ![Hasil](docs/result_screen.jpg) |
+
+
+
+## 🛠️ Teknologi yang Digunakan
+- **Framework:** Flutter (Dart)
+- **Library:** - `mobile_scanner` (Camera)
+  - `geolocator` & `geocoding` (Lokasi)
+  - `intl` (Format Rupiah)
