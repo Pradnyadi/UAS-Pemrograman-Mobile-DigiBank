@@ -22,7 +22,9 @@ Aplikasi ini dibuat untuk memenuhi tugas UAS Mata Kuliah Pemrograman Mobile. Apl
 
 | Halaman Scan | Halaman Hasil (Sukses) |
 | :---: | :---: |
+| ![Scan](docs/register_screen.jpg) | ![Hasil](docs/home_screen.jpg) |
 | ![Scan](docs/scan_screen.jpg) | ![Hasil](docs/result_screen.jpg) |
+| ![Scan](docs/success_screen.jpg) |
 
 
 
