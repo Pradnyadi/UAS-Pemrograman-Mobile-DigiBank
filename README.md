@@ -12,6 +12,15 @@ Aplikasi ini dibuat untuk memenuhi tugas UAS Mata Kuliah Pemrograman Mobile. Apl
 - **Desain Figma :** https://www.figma.com/design/Wq0m6JFEoMaBWtPbKcWFju/Untitled?node-id=0-1&t=KmWbShxqjqpfvMuC-1
 - **Google Docs - Penjelasan Project :** https://docs.google.com/document/d/1WLFvdRT42Dgiivzoi_f55ScryYTvWs_hxFFHmtXxxfY/edit?usp=sharing
 
+## 📸 Screenshot Implementasi
+
+| Halaman Scan | Halaman Hasil (Sukses) |
+| :---: | :---: |
+| ![Scan](docs/register_screen.jpg) | ![Hasil](docs/home_screen.jpg) |
+| ![Scan](docs/scan_screen.jpg) | ![Hasil](docs/result_screen.jpg) |
+| ![Scan](docs/success_screen.jpg) | |
+
+
 ## 📱 Fitur Utama
 - **QRIS Scanner:** Memindai kode QRIS standar dan membaca data merchant & nominal.
 - **Auto Location:** Mendeteksi lokasi pengguna (Jalan, Kecamatan, Kab) saat transaksi menggunakan Geolocation & Geocoding.
