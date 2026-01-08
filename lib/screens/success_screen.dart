@@ -110,7 +110,7 @@ class SuccessScreen extends StatelessWidget {
                       Row(
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: [
-                          const Text("Lokasi Toko", style: TextStyle(color: Colors.grey, fontSize: 14)),
+                          const Text("Lokasi ", style: TextStyle(color: Colors.grey, fontSize: 14)),
                           InkWell(
                             onTap: _openMap, // Panggil fungsi buka peta
                             child: Row(
