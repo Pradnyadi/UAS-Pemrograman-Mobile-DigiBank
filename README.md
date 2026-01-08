@@ -10,7 +10,7 @@ Aplikasi ini dibuat untuk memenuhi tugas UAS Mata Kuliah Pemrograman Mobile. Apl
 
 ## 🔗 Link Desain & Dokumen
 - **Desain Figma:** [Klik disini untuk melihat Figma](MASUKKAN_LINK_FIGMA_DISINI)
-- **Rancangan Arsitektur:** https://docs.google.com/document/d/1WLFvdRT42Dgiivzoi_f55ScryYTvWs_hxFFHmtXxxfY/edit?usp=sharing
+- **Google Docs - Penjelasan Proyek :** https://docs.google.com/document/d/1WLFvdRT42Dgiivzoi_f55ScryYTvWs_hxFFHmtXxxfY/edit?usp=sharing
 
 ## 📱 Fitur Utama
 - **QRIS Scanner:** Memindai kode QRIS standar dan membaca data merchant & nominal.
