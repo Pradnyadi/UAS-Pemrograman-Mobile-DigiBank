@@ -9,7 +9,7 @@ Aplikasi ini dibuat untuk memenuhi tugas UAS Mata Kuliah Pemrograman Mobile. Apl
 
 
 ## 🔗 Link Desain & Dokumen
-- **Desain Figma :** https://www.figma.com/design/Wq0m6JFEoMaBWtPbKcWFju/Untitled?node-id=0-1&t=KmWbShxqjqpfvMuC-1
+- **Desain Figma :** https://www.figma.com/design/OsJ0HEnd5xVV3k2yswNhXn/DigiBank-FINTECH?node-id=0-1&t=6xRXqYbAqp0VKlEM-1
 - **Google Docs - Penjelasan Project :** https://docs.google.com/document/d/1WLFvdRT42Dgiivzoi_f55ScryYTvWs_hxFFHmtXxxfY/edit?usp=sharing
 
 ## 📸 Screenshot Implementasi
